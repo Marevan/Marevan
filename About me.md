@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Marevan
+- 👀 I’m interested in .NET Core,backend
+- 🌱 I’m currently learning .NET Core,HTML/CSS,PostgreSQL,Postman,MVC
